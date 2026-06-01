@@ -1,8 +1,6 @@
 # wshp — Local Whisper Dictation for Windows
 
-A fully local, privacy-first Whisper dictation tool for Windows.  
-Speak into your microphone; text appears instantly in whatever app has focus —  
-no cloud, no subscriptions, no data leaving your machine.
+A fully local, privacy-first Whisper dictation tool for Windows. Speak into your microphone; text appears instantly in whatever app has focus — no cloud, no subscriptions, no data leaving your machine.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
