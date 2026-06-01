@@ -48,11 +48,6 @@ both leave plenty of VRAM headroom for other applications.
 | Windows 10 / 11 | 64-bit |
 | Microphone | Any input device recognised by Windows |
 
-### CUDA Libraries
-
-faster-whisper requires **cuBLAS** and **cuDNN 9** for CUDA 12.  
-The easiest way to get them on Windows is via the official NVIDIA installers or conda:
-
 ```bash
 # Via conda (easiest)
 conda install -c conda-forge cudatoolkit=12 cudnn=9
