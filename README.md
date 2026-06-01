@@ -48,16 +48,6 @@ both leave plenty of VRAM headroom for other applications.
 | Windows 10 / 11 | 64-bit |
 | Microphone | Any input device recognised by Windows |
 
-```bash
-# Via conda (easiest)
-conda install -c conda-forge cudatoolkit=12 cudnn=9
-
-# Or manually install CUDA Toolkit 12.x from:
-# https://developer.nvidia.com/cuda-downloads
-# And cuDNN 9 from:
-# https://developer.nvidia.com/cudnn-downloads
-```
-
 ---
 
 ## Installation
