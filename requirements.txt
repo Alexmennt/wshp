@@ -1,0 +1,34 @@
+# Core transcription
+faster-whisper>=1.0.0
+
+# Audio capture
+sounddevice>=0.4.6
+
+# Voice Activity Detection (optional but recommended)
+# webrtcvad-wheels provides pre-compiled Windows binaries (no C compiler needed)
+# If this fails to install, the app falls back to energy-based VAD automatically
+webrtcvad-wheels>=2.0.10
+
+# Global hotkeys
+pynput>=1.7.6
+
+# GUI (system tray, overlay, settings)
+PyQt6>=6.5.0
+
+# Windows API (focus management, window detection)
+pywin32>=306
+
+# Array processing
+numpy>=1.24.0
+
+# Icon generation
+Pillow>=10.0.0
+
+# Clipboard access (for text injection)
+pyperclip>=1.8.2
+
+# Keyboard simulation fallback
+pyautogui>=0.9.54
+
+# Build tool
+pyinstaller>=6.0.0
